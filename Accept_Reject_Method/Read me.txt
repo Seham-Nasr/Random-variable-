@@ -1,0 +1,15 @@
+The code programmed using Python language  3.7 , Juypter editor 
+
+compile and run
+1- the libraries imported are numpy, math and some case I used random lib and for plot the graphs I used the library     matplotlib.pyplot as plt and Finally I used  scipy.integrate import quad library to calculate the Area under the curve     which should be =1
+
+2- I used 1000000 samples to generate Random variable. I also tried different number of samples while I was coding
+3- the function "numpy.random.uniform(0,1)" used to generate the uniform r.v in range 0,1
+
+To compile and run the code :
+ the code can be opened using windows notepad or any python editor
+ you can run the code using online python editor, but first you must download the required libraries 
+
+  like the following free online editor :
+                       https://repl.it/languages/python3
+
